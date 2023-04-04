@@ -1,5 +1,7 @@
 Использовал технологии: React + Redux, Redux DevTools, Redux Thunk, TypeScript, react-douter-dom@5.3.0, axios, sass( в синтаксисе scss)
 
+Ссылка на готовую работу: vladimir073.github.io
+
 Описание диплома
 
 **Ссылка на дизайн**: [https://www.figma.com/file/yLnqEAFZ938idowWXWYppg/MOVIESinfo?node-id=0%3A1](https://www.figma.com/file/yLnqEAFZ938idowWXWYppg/MOVIESinfo?node-id=0%3A1) 
