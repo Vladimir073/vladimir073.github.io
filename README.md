@@ -1,6 +1,6 @@
 Использовал технологии: React + Redux, Redux DevTools, Redux Thunk, TypeScript, react-douter-dom@5.3.0, axios, sass( в синтаксисе scss)
 
-Ссылка на готовую работу: vladimir073.github.io
+Ссылка на готовую работу: vladimir073.github.io (скопировать и вставить в адресную строку)
 
 Описание диплома
 
